@@ -11,12 +11,9 @@
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on **full‑stack projects** that combine C#, ASP.NET, and Oracle SQL  
-- 🌱 Learning **LINQ**, **Entity Framework**, & **Web Audio API** to push the boundaries of web media  
+- 🔭 I’m currently working on **full‑stack projects** that combine C#, ASP.NET, Oracle SQL, and JavaScript  
+- 🌱 Learning **UX Interfaces**, **Entity Framework**, & **Web Audio API** to push the boundaries of web media  
 - 🎨 Bridging my background in **graphic design, video production, and illustration** with software to craft <br/> intuitive, human‑centered experiences  
-- 💬 Ask me about **JavaScript**, **C# delegates & events**, **Oracle**, and **Linux administration**  
-- ⚡ Fun fact: I can tell you whether your bacon is still edible *and* design the ERD for your breakfast table 🥓
-
 ---
 
 ### 🧰 Tech Toolbox
@@ -40,27 +37,15 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ProfileHub](https://github.com/<your-github-username>/ProfileHub) | Social profile aggregator with role‑based permissions and Oracle 12c backend | C#, ASP.NET, Oracle SQL |
-| [SoundPeace](https://github.com/<your-github-username>/SoundPeace) | Minimalistic web audio player powered by the Web Audio API | HTML, CSS, JS |
-| [Pixar Movie Gallery](https://github.com/<your-github-username>/PixarGallery) | Interactive gallery parsing JSON & DOM for COMP 125 assignment | JavaScript, JSON |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=default" alt="Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<your-github-username>" alt="Streak" height="150"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&hide_border=true&area=false" alt="Contribution Graph"/>
-</div>
+| [ProfileHub](https://github.com/Steven101projects/ProfileHub-CSharp-Console-App) | Social profile aggregator with role‑based permissions and Oracle 12c backend | C#, ASP.NET, Oracle SQL |
+| [SoundPeace](https://github.com/Steven101projects/Project01) | Minimalistic web audio player powered by the Web Audio API | HTML, CSS, JS |
 
 ---
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-email>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-steven-castro-5a5285332/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castroconi101@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://<your-portfolio-site>)
 
 ---
