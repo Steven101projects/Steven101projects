@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner Image]((https://github.com/Steven101projects/Steven101projects/blob/main/Screenshot%202025-04-25%20123949.png)
+![Banner Image](https://github.com/Steven101projects/Steven101projects/blob/main/Screenshot%202025-04-25%20123949.png)
 
 <h1 align="center">Hi there 👋, I'm Nico Steven</h1>
 
