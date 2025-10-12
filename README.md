@@ -44,4 +44,4 @@
 
 ---
 
-> “Code without context is just noise. I build context.”
+> “Lol just do it. Seriously..”
