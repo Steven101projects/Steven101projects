@@ -9,7 +9,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**Project02: 101.Projects**](https://github.com/Steven101projects/Project02-101.ProjectMERN) | A portfolio and resume website built with **Next.js** and **TypeScript** to showcase my projects and skills in a clean, responsive layout. | Next.js • TypeScript • CSS |
+| [**Project02: 101.Projects**](https://github.com/Steven101projects/Project2.NextJS-101.projects) | A portfolio and resume website built with **Next.js** and **TypeScript** to showcase my projects and skills in a clean, responsive layout. | Next.js • TypeScript • CSS |
 | [**Project03: NicNotes!**](https://github.com/Steven101projects/Project3-Docusaurus-NicNotes) | A documentation site built with **Docusaurus** for organizing programming notes, tutorials, and academic materials I have learned.| Docusaurus • React • Markdown |
 | [**Project04: CRAFTERIA**](https://github.com/Steven101projects/Project04-CRAFTERIA) | A creative **MERN**-stack platform for creatives who like to create something out of very little materials. | MongoDB • Express.js • React • Node.js |
 
