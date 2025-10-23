@@ -4,8 +4,6 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
 ### 🚀 Watch out for these projects I've been working on!
 
 | Project | Description | Tech Stack |
