@@ -1,18 +1,74 @@
-<h1 align="center"> Hi, Welcome to my Github 👋</h1>
+<h1 align="center">Hi 👋 I am Nico Castro</h1>
+<h3 align="center">
+Software Engineering Technician at Centennial College  
+Vice President of the CCSAI Engineering Club  
+Toronto Canada and Philippines
+</h3>
+
 <p align="center">
-  <em>Software Engineering Technician @ Centennial College · VP, CCSAI Engineering Club · Toronto, Canada - Philippines</em>
+I am a software developer who enjoys building practical systems, clean interfaces, and well structured applications.
+My work focuses on clarity, maintainability, and real world use.
+</p>
+
+<p align="center">
+<strong>Currently working on MARK II: Collection of Projects</strong>
 </p>
 
 ---
-### 🚀 Watch out for these projects I've been working on!
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**Project02: 101.Projects**](https://github.com/Steven101projects/Project2.NextJS-101.projects) | A portfolio and resume website built with **Next.js** and **TypeScript** to showcase my projects and skills in a clean, responsive layout. | Next.js • TypeScript • CSS |
-| [**Project03: NicNotes!**](https://github.com/Steven101projects/Project3-Docusaurus-NicNotes) | A documentation site built with **Docusaurus** for organizing programming notes, tutorials, and academic materials I have learned.| Docusaurus • React • Markdown |
-| [**Project04: CRAFTERIA**](https://github.com/Steven101projects/Project04-CRAFTERIA) | A creative **MERN**-stack platform for creatives who like to create something out of very little materials. | MongoDB • Express.js • React • Node.js |
+## 📌 What is MARK II
 
-### 🤝 Connect With Me
+MARK II is a focused phase of my development journey.  
+This collection represents refined projects rebuilt with stronger foundations, clearer goals, and better design decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-steven-castro-5a5285332/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castroconi101@gmail.com)
+The emphasis is on:
+• solid architecture  
+• readable and maintainable code  
+• thoughtful user experience  
+• real use cases over demos  
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|-------|------------|------|
+| **101.Projects** | A personal portfolio and resume site designed to present my work and growth as a developer in a clean and responsive format. | Next.js TypeScript CSS |
+| **NicNotes** | A structured documentation hub for programming notes, tutorials, and academic concepts I have learned and refined. | Docusaurus React Markdown |
+| **CRAFTERIA** | A creative platform focused on building meaningful projects using simple and accessible materials. | MongoDB Express React Node |
+
+---
+
+## 🛠 Languages and Tools
+
+**Languages**  
+JavaScript TypeScript Python Java C# Kotlin HTML CSS  
+
+**Frameworks and Libraries**  
+React Next.js Node.js Express Redux Tailwind Bootstrap  
+
+**Databases and Data**  
+MongoDB Oracle Pandas  
+
+**Testing and Tools**  
+Git Linux Postman Cypress Selenium  
+
+**Design**  
+Figma Photoshop Illustrator  
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/nico-steven-castro-5a5285332
+
+Email  
+castroconi101@gmail.com
+
+---
+
+<p align="center">
+Thanks for stopping by.  
+MARK II is still in progress and more refined work is coming.
+</p>
