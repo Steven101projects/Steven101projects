@@ -14,31 +14,6 @@ My work focuses on clarity, maintainability, and real world use.
 <strong>Currently working on MARK II: Collection of Projects</strong>
 </p>
 
----
-
-## 📌 What is MARK II
-
-MARK II is a focused phase of my development journey.  
-This collection represents refined projects rebuilt with stronger foundations, clearer goals, and better design decisions.
-
-The emphasis is on:
-• solid architecture  
-• readable and maintainable code  
-• thoughtful user experience  
-• real use cases over demos  
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech |
-|-------|------------|------|
-| **101.Projects** | A personal portfolio and resume site designed to present my work and growth as a developer in a clean and responsive format. | Next.js TypeScript CSS |
-| **NicNotes** | A structured documentation hub for programming notes, tutorials, and academic concepts I have learned and refined. | Docusaurus React Markdown |
-| **CRAFTERIA** | A creative platform focused on building meaningful projects using simple and accessible materials. | MongoDB Express React Node |
-
----
-
 ## 🛠 Languages and Tools
 
 **Languages**  
@@ -65,10 +40,3 @@ https://www.linkedin.com/in/nico-steven-castro-5a5285332
 
 Email  
 castroconi101@gmail.com
-
----
-
-<p align="center">
-Thanks for stopping by.  
-MARK II is still in progress and more refined work is coming.
-</p>
