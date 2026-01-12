@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I am Nico Castro</h1>
+<h1>Welcome, I am Nico Castro</h1>
 <p align="center">
 <strong>Currently working on MARK II: Collection of Projects</strong>
 </p>
