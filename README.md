@@ -1,10 +1,10 @@
-<h1>Welcome, I am Nico Castro</h1>
+<h1>Welcome, I am Nico Castro : )</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-steven-castro-5a5285332)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castroconi101@gmail.com)
 
 <p align="center">
-<strong>Currently working on MARK II: Collection of Projects</strong>
+<strong>Currently working on MARK II: Collection of Projects of 2025-26</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
