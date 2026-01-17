@@ -1,4 +1,4 @@
-<h1>Welcome, I am Nico Castro : )</h1>
+<h1>Welcome, I am Nico Castro, your Junior Software Developer at your service!</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-steven-castro-5a5285332)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castroconi101@gmail.com)
